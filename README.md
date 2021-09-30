@@ -14,9 +14,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/order_summary_desktop.png)
-
-
+![desktop](./screenshots/order_summary_desktop.png)
+![mobile](./screenshots/order_summary_mobile.png)
 
 ### Links
 
