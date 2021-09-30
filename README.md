@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://shawn8z.github.io/FM_project_2/)
+- Live Site URL: [https://shawn8z.github.io/FM_project_2/](https://shawn8z.github.io/FM_project_2/)
 
 ### Built with
 
