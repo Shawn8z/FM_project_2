@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-html-css-YzEnORsgs](https://www.frontendmentor.io/solutions/order-summary-component-html-css-YzEnORsgs)
 - Live Site URL: [https://shawn8z.github.io/FM_project_2/](https://shawn8z.github.io/FM_project_2/)
 
 ### Built with
