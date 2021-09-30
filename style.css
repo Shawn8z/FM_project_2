@@ -1,6 +1,6 @@
 
 html {
-    background-image: url(../images/pattern-background-mobile.svg);
+    background-image: url(./images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-color: hsl(225, 100%, 94%);
@@ -169,7 +169,7 @@ h1, .plan_name {
 @media (min-width: 650px) {
    
     html {
-        background-image: url(../images/pattern-background-desktop.svg);
+        background-image: url(./images/pattern-background-desktop.svg);
     }
 
     body {
