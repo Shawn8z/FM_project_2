@@ -87,6 +87,8 @@ h1 {
 }
 .plan_name {
     margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
 }
 .plan_cost {
     color: hsl(224, 23%, 55%);
@@ -94,6 +96,8 @@ h1 {
     font-weight: 500;
     margin-top: 1.44px;
     margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 h1, .plan_name {
