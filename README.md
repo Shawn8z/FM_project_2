@@ -33,7 +33,7 @@ Users should be able to:
 1. Should place a:visited selector before any other action base selector, if not it will overwrite all selector`s styling before it.
 2. Adding background image in CSS.
 3. A better understanding of when and where should different types of units be used.
-4. Understand how different font weights work in the same font family.
+4. Understand how different font weight work in the same font family.
 
 ## Author
 
