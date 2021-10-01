@@ -76,9 +76,9 @@ h1 {
 }
 
 .current_plan {
-    position: relative;
+    position: absolute;
     width: fit-content;
-    top: -48px;
+    top: 6px;
     left: 80px;
     margin-top: 0;
     margin-bottom: 0px;
@@ -107,9 +107,9 @@ h1, .plan_name {
 
 
 .change_plan {
-    position: relative;
+    position: absolute;
     width: fit-content;
-    top: -78px;
+    top: 32px;
     left: 206px;
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 900;
