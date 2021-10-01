@@ -114,9 +114,10 @@ h1, .plan_name {
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 900;
     font-size: 13px;
+    color: hsl(245, 75%, 52%);
 }
 .change_link:visited {
-    color:blue;
+    color: hsl(245, 75%, 52%);
 }
 .change_link:hover {
     text-decoration: none;
