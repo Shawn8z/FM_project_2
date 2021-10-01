@@ -34,7 +34,7 @@ Users should be able to:
 2. Adding background image in CSS.
 3. A better understanding of when and where should different types of units be used.
 4. Understand how different font weight work in the same font family.
-5. In the first draft of solution preview on frontend mentor, the elements in .current_plan and .change_link are not behaving correctly (their position are not where they should be) their position was set to relative. That seems to cause the element's width value to inherite from its parent.(I tryed to force its size by putting in width value but it don't seem to work) I change their position from relative to absolute, the unwanted width inherite problem goes away and I can position they correctly.
+5. In the first draft of solution preview on frontend mentor, the elements in .current_plan and .change_plan are not behaving correctly (their position are not where they should be) their position was set to relative. That seems to cause the element's width value to inherite from its parent.(I tryed to force its size by putting in width value but it don't seem to work) I change their position from relative to absolute, the unwanted width inherite problem goes away and I can position they correctly.
 
 ## Author
 
