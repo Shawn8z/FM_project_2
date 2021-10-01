@@ -80,8 +80,7 @@ h1 {
     width: fit-content;
     top: 6px;
     left: 80px;
-    margin-top: 0;
-    margin-bottom: 0px;
+    margin: 0;
     letter-spacing: -0.5px;
     font-size: 15px;
 }
@@ -111,6 +110,7 @@ h1, .plan_name {
     width: fit-content;
     top: 32px;
     left: 206px;
+    margin: 0 0 0 0;
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 900;
     font-size: 13px;
@@ -176,7 +176,7 @@ h1, .plan_name {
         background-image: url(./images/pattern-background-desktop.svg);
     }
 
-    body {
+     body {
         top: 11.11vh;
         width: 452px;
         height: 706px;
@@ -200,7 +200,7 @@ h1, .plan_name {
     }
     .current_plan {
         left: 94px;
-        top: -45px;
+        top: 6px;
     }
     .music_icon {
         position: relative;
@@ -223,9 +223,7 @@ h1, .plan_name {
         top: 38.6px;
     }
     .change_plan {
-        position: relative;
-        width: fit-content;
-        top: -78px;
+        top: 40px;
         left: 281px;
         font-size: 14px;
     }
